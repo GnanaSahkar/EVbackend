@@ -1,0 +1,6 @@
+opencv-python
+cmake
+dlib
+wheel
+datetime
+face-recognition
